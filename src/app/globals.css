@@ -10,8 +10,8 @@
   --color-ink-soft: #2a2723;
   --color-clay: #a5826a;
 
-  --font-serif: var(--font-instrument), ui-serif, Georgia, serif;
-  --font-sans: var(--font-inter-tight), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Instrument Serif", ui-serif, Georgia, serif;
+  --font-sans: "Inter Tight Variable", ui-sans-serif, system-ui, sans-serif;
 
   --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
 }
